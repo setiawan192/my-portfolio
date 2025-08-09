@@ -10,7 +10,7 @@ const portfolioData = {
   contact: {
     phone: "+62 857-1945-6968",
     email: "bisnisardianoffic20@gmail.com",
-    portfolio: "Belum Ada", // "Not Available Yet"
+    portfolio: "github.com/setiawan192 , github.com/ardian200", // "Not Available Yet"
     location: "West Jakarta, Indonesia"
   },
 
@@ -75,6 +75,15 @@ const portfolioData = {
     ]
   },
   
-  // Projects (can be filled later)
-  projects: [] 
+  // Projects
+  projects: [
+    {
+      name: "tb_1_webenterprise_Nama_Ardian_setiawan-_Nim_41823010043_punya_saya",
+      url: "https://github.com/ardian200/tb_1_webenterprise_Nama_Ardian_setiawan-_Nim_41823010043_punya_saya"
+    },
+    {
+      name: "PROJECT-UAS",
+      url: "https://github.com/setiawan192/PROJECT-UAS"
+    }
+  ]
 };
